@@ -1,3 +1,4 @@
-__author__ = 'dell'
-print 'Hello,World'
+__author__ = 'Junyjiang'
+print 'Hello,World','So Boring'
+
 
